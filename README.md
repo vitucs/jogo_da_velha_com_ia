@@ -7,4 +7,4 @@ MODOS:
 PVP
 COOP
 
-Layout desenvolvido exclusivamente em C++.
+Interface e Lógica foram desenvolvidas exclusivamente em C++.
